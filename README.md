@@ -20,7 +20,7 @@ System Requirements
 -------------------
 
 * TYPO3 CMS version 7.6 or 8.x
-* PHP version 5.5, 5.6 or 7.0
+* PHP version 5.5, 5.6, 7.0 or 7.1
 
 License
 -------

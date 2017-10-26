@@ -30,7 +30,7 @@ Detailed documentation, screenshots and more at: http://schams.net/nagios',
     'author_company' => 'https://schams.net',
     'constraints' => array (
         'depends' => array (
-            'php' => '5.5.0-7.0.99',
+            'php' => '5.5.0-7.1.99',
             'typo3' => '7.0.0-8.99.99',
         ),
         'conflicts' => array (

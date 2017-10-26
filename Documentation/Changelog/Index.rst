@@ -36,7 +36,8 @@ Version  Date        Changes
                      - Compatibility with TYPO3 CMS version 8.5 and PHP version 7.0 tested
                      - Dependency configuration updated
                      - Release of re-developed extension as a stable version (published at the `TYPO3 Extension Repository <http://typo3.org/extensions/repository/>`_)
-2.1.1    2017-05-04  - Allow multiple comma-separated IPv4 addresses in HTTP proxy headers, e.g. "HTTP_X_FORWARDED_FOR"
+2.1.1    2017-10-26  - Allow multiple comma-separated IPv4 addresses in HTTP proxy headers, e.g. "HTTP_X_FORWARDED_FOR"
+                     - Compatibility with PHP version 7.1
 =======  ==========  =======================================================================
 
 
